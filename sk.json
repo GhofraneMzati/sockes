@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2001,
+    "color": "green",
+    "image": "socks_green.jpg",
+    "quantity": 10
+  },
+  {
+    "id": 2002,
+    "color": "blue",
+    "image": "socks_blue.jpg",
+    "quantity": 0
+  }
+]
